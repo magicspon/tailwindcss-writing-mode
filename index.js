@@ -1,5 +1,3 @@
-const _ = require('lodash')
-
 module.exports = function({ variants }) {
 	return function({ addUtilities }) {
 		addUtilities(
