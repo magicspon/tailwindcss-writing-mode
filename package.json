@@ -1,0 +1,20 @@
+{
+	"name": "tailwindcss-writing-mode",
+	"version": "1.0.0",
+	"description": "Aspect ratio plugin for tailwindcss framework",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/com:magicspon/tailwindcss-writing-mode.git"
+	},
+	"keywords": ["tailwind", "tailwindcss", "plugin", "tailwindcss-plugin"],
+	"author": "dave stockley",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/com:magicspon/tailwindcss-writing-mode/issues"
+	},
+	"homepage": "https://github.com/com:magicspon/tailwindcss-writing-mode#readme"
+}
