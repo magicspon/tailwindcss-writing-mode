@@ -13,7 +13,7 @@ module.exports = function({ variants }) {
 				}
 			},
 			{
-				variants: ['responsive']
+				variants
 			}
 		)
 	}
